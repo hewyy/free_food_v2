@@ -26,4 +26,5 @@ They are formated in the following way:
 {'summary': **Add event title**, 'location': **Add event location**, 'description': **Add link to events page**, 'start': {'dateTime': **start time (ISO 8601 TimeDate format)**}, 'end': {'dateTime': **end time (ISO 8601 TimeDate format)**}}
 
 
-'2020-07-26T00:00:00-04:00'
+
+
